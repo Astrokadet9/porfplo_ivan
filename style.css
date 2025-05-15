@@ -1,0 +1,64 @@
+body {
+    font-family: sans-serif;
+
+}
+
+h1 {
+    text-align: center;
+    background-color: lightblue;
+}
+
+h2{
+    text-align: center;
+    background-color: aquamarine;
+}
+
+img{
+    width: 200px;
+}
+
+p{
+    width: 200px;
+    height: 100px;
+}
+
+section{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+
+}
+
+article {
+    width: 200px;
+}
+.r:hover{
+    
+  font-size: 30px;
+  border-radius: 100%; 
+  background-color: blueviolet;
+    
+
+}
+
+body{
+    background-color: lightskyblue;
+}
+
+h3{
+    text-align: center;
+    background-color:lightsteelblue;
+}
+
+h4{
+    background-color: lightblue;
+}
+
+footer{
+    background-color:chartreuse;
+}
+
+.pups{
+    width: 200px;
+    height: 80px;
+}
